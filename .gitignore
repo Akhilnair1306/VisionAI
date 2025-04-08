@@ -1,0 +1,26 @@
+# Ignore virtual environments
+/venv/
+
+# Ignore archive files
+*.tar.gz
+*.zip
+*.tar
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore frontend build folder (optional if you build your frontend)
+frontend-new/build/
+
+# Ignore node_modules in both frontend and backend
+/frontend-new/node_modules/
+/backend-mongo/node_modules/
+
+# Ignore IDE or editor folders
+.vscode/
+.idea/
+
+frontend/
+
+# Add any other specific files/folders you want to exclude
