@@ -13,6 +13,8 @@ __pycache__/
 # Ignore frontend build folder (optional if you build your frontend)
 frontend-new/build/
 
+/backend/venv/
+/backend/archive
 # Ignore node_modules in both frontend and backend
 /frontend-new/node_modules/
 /backend-mongo/node_modules/
